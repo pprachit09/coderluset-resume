@@ -1,7 +1,7 @@
 {
   "name": "personalportfolio",
-  "version": "0.1.0",
-  "homepage":"./",
+  "version": "1.0.0",
+  "homepage": "./",
   "private": true,
   "dependencies": {
     "anix": "^0.3.3",
@@ -16,6 +16,18 @@
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test --env=jsdom",
-    "eject": "react-scripts eject"
+    "eject": "react-scripts eject",
+    "lint": "eslint src",
+    "lint:fix": "eslint --fix src",
+    "prettier": "prettier --write --no-semi --single-quote \"src/**/*.js\""
+  },
+  "devDependencies": {
+    "eslint": "^7.10.0",
+    "eslint-config-standard": "^14.1.1",
+    "eslint-plugin-node": "^11.1.0",
+    "eslint-plugin-promise": "^4.2.1",
+    "eslint-plugin-react": "^7.21.3",
+    "eslint-plugin-standard": "^4.0.1",
+    "prettier": "^2.1.2"
   }
 }

@@ -1,46 +1,40 @@
 {
   "main": {
-    "name":"Nordic-Giant Project",
-    "description":"I am a web development engineer and I use react and python to develop pages. This project is a resume template that can be used as the project home page or resume page",
+    "name":"Prachit Patil",
+    "description":"I am a Full Stack Developer and I use react, node and python to develop pages. This project is a resume template that can be used as the project home page or resume page",
     "image":"profilepic.jpg",
-    "bio":"Use this bio section as your way of describing yourself and saying what you do, what technologies you like to use or feel most comfortable with, describing your personality, or whatever else you feel like throwing in.",
-    "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
-    "email": "youremailhere@gmail.com",
-    "phone": "555-555-5555",
-    "github":"https://github.com/nordicgiant2/react-nice-resume",
+    "bio":"I am a Full Stack developer and I love to learn new things. I believe that every programmer is an author in a unique way. I love football, gaming, and swimming. I carry my dream to travel around the world",
+    "contactmessage":"Feel free to reach out to me.",
+    "email": "pprachit09@gmail.com",
+    "phone": "+91-8698219323",
+    "github":"https://github.com/pprachit09",
     "project":"https://github.com/nordicgiant2/react-nice-resume",
     "address":{
-      "street":"(Your Street)",
-      "city":"(Your City)",
-      "state":"(Your State)",
-      "zip": "(Your Zip/Postal Code)"
+      "city":"Mumbai",
+      "state":"Maharashtra",
+      "zip": "401 701"
     },
-    "website": "http://www.timbakerdev.com",
+    "website": "http://www.coderlust.com",
     "resumedownload":"http://timbakerdev.com",
     "social":[
       {
         "name":"facebook",
-        "url":"https://github.com/nordicgiant2/react-nice-resume",
+        "url":"https://www.facebook.com/prachit.patil/",
         "className":"fa fa-facebook"
       },
       {
-        "name":"twitter",
-        "url":"http://twitter.com",
-        "className":"fa fa-twitter"
-      },
-      {
         "name":"linkedin",
-        "url":"https://www.linkedin.com/in/tim-baker-8420009a/",
+        "url":"https://www.linkedin.com/in/prachit-patil-573500148/",
         "className":"fa fa-linkedin"
       },
       {
         "name":"instagram",
-        "url":"http://instagram.com/tbaker_x",
+        "url":"https://www.instagram.com/p_prachit/",
         "className":"fa fa-instagram"
       },
       {
         "name":"github",
-        "url":"https://github.com/nordicgiant2/react-nice-resume",
+        "url":"https://github.com/pprachit09",
         "className":"fa fa-github"
       }
     ]
@@ -49,60 +43,89 @@
     "skillmessage":"Here you can create a short write-up of your skills to show off to employers",
     "education":[
       {
-        "school":"University?",
-        "degree":"Masters in Beer tasting",
-        "graduated":"April 2007",
-        "description":"Describe your experience at school, what you learned, what useful skills you have acquired etc."
+        "school":"Mumbai University",
+        "degree":"Bachelor of Engineering",
+        "graduated":"May 2016",
+        "description": [
+          "Attended a 2 day workshop Touch Me on touchpad controlled robot.",
+          "Attended a 3 day Industrial training in Commtel Networks.",
+          "Volunteered in different tech events."
+        ]
       },
       {
-        "school":"School #1 Maybe College?",
-        "degree":"What did you study 101",
-        "graduated":"March 2003",
-        "description":"Describe your experience at school, what you learned, what useful skills you have acquired etc."
+        "school":"S.P.H High School",
+        "degree":"High School",
+        "graduated":"May 2010",
+        "description": [
+          "Completed high-school education",
+          "Selected for maharashtra scholarship",
+          "Rank 1 in the 10th Standard"
+        ]
       }
     ],
     "work":[
       {
-        "company":"Awesome Design Studio",
-        "title":"Senior UX God ",
-        "years":"March 2010 - Present",
-        "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
-      },
-      {
-        "company":"Super Cool Studio",
-        "title":"Junior bug fixer",
-        "years":"March 2007 - February 2010",
-        "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+        "company":"TATA Consultancy Services",
+        "title":"Full Stack Developer",
+        "years":"December 2016 - Present",
+        "projects": [
+          "Designed and developed python automation scripts",
+          "Managed and developed various platforms",
+          "Automated the repeated task with python-selenium and autoGUI",
+          "Automated unit and integration testing with cypress.io in node.js",
+          "Integrated cypress.io with Travis for automation testing and reporting.",
+          "Designed and developed portals in MERN stack",
+          "Developed CI/CD workflow with Github->Travis->Firebase",
+          "Have worked on some of AWS services and have the working knowledge of Lambda functions",
+          "Worked on bug fixing in PHP",
+          "Integrated all types of REST API with Python and Node",
+          "Created REST APIs in python flask and node express"
+        ],
+        "achievements": [
+          "Special appriciation from customer for developing a script to deploy covid-19 banner on multiple websites",
+          "Reduced a lot of manual efforts with new initiatives",
+          "On the spot award for one of the initiative",
+          "Star of the Month",
+          "Star of the Quarter"
+        ]
       }
     ],
     "skills":[
       {
         "name":"Python",
-        "level":"60%"
-      },
-      {
-        "name":"VueJs",
-        "level":"55%"
-      },
-      {
-        "name":"ReactJs",
-        "level":"50%"
-      },
-      {
-        "name":"CSS",
         "level":"90%"
       },
       {
+        "name":"Node",
+        "level":"90%"
+      },
+      {
+        "name":"ReactJs",
+        "level":"85%"
+      },
+      {
+        "name":"VueJs",
+        "level":"65%"
+      },
+      {
+        "name": "Express",
+        "level": "90%"
+      },
+      {
+        "name": "MongoDB",
+        "level":"80%"
+      },
+      {
         "name":"PHP",
+        "level":"60%"
+      },
+      {
+        "name":"Cypress",
         "level":"80%"
       },
       {
-        "name":"Swift",
-        "level":"50%"
-      },
-      {
-        "name":"JAVA",
-        "level":"80%"
+        "name":"Passport",
+        "level":"70%"
       }
     ]
   },
