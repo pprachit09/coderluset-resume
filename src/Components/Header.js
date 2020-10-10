@@ -1,5 +1,5 @@
 import React from 'react'
-import ParticlesBg from 'particles-bg'
+// import ParticlesBg from 'particles-bg'
 import PropTypes from 'prop-types'
 
 const Header = ({ data }) => {
@@ -24,7 +24,7 @@ const Header = ({ data }) => {
   }
   return (
     <header id="home">
-      <ParticlesBg type="circle" bg={true} />
+      {/* <ParticlesBg type="circle" bg={true} /> */}
       <nav id="nav-wrap">
         <a className="mobile-btn" href="#nav-wrap" title="Show navigation">
           Show navigation
