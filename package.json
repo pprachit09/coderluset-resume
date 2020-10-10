@@ -7,10 +7,10 @@
     "anix": "^0.3.3",
     "jquery": "^3.2.1",
     "particles-bg": "^2.3.12",
-    "react": "^16.2.0",
-    "react-dom": "^16.2.0",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1",
     "react-ga": "^2.3.5",
-    "react-scripts": "1.0.17"
+    "react-scripts": "3.4.1"
   },
   "scripts": {
     "start": "react-scripts start",
@@ -28,5 +28,17 @@
     "eslint-plugin-react": "^7.21.4",
     "eslint-plugin-standard": "^4.0.1",
     "prettier": "^2.1.2"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
   }
 }
