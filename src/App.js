@@ -1,5 +1,4 @@
 import React, { useState, useEffect } from 'react'
-import $ from 'jquery'
 import './App.css'
 import Header from './Components/Header'
 import Footer from './Components/Footer'
@@ -7,23 +6,13 @@ import About from './Components/About'
 import Resume from './Components/Resume'
 import Contact from './Components/Contact'
 import Portfolio from './Components/Portfolio'
+import resume from './resumeData.json'
 
 const App = () => {
   const [resumeData, setResumeData] = useState({})
 
   const getResumeData = () => {
-    $.ajax({
-      url: './resumeData.json',
-      dataType: 'json',
-      cache: false,
-      success: (data) => {
-        setResumeData(data)
-      },
-      error: (xhr, status, err) => {
-        console.log(err)
-        alert(err)
-      }
-    })
+    setResumeData(resume)
   }
 
   useEffect(() => {

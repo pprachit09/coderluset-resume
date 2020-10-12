@@ -8,7 +8,7 @@ const Footer = ({ data }) => {
         <ul className="social-links">
           {data.social.map((network) => (
             <li key={network.name}>
-              <a href={network.url}>
+              <a target="_blank" rel="noopener noreferrer" href={network.url}>
                 <i className={network.className}></i>
               </a>
             </li>
