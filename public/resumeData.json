@@ -59,7 +59,7 @@
         "description": [
           "Completed high-school education",
           "Selected for maharashtra scholarship",
-          "Rank 1 in the 10th Standard"
+          "1st Rank in the 10th Standard"
         ]
       }
     ],
@@ -87,6 +87,9 @@
           "On the spot award for one of the initiative",
           "Star of the Month",
           "Star of the Quarter"
+        ],
+        "certifications": [
+          "Certified Python-Application Developer"
         ]
       }
     ],
@@ -132,34 +135,28 @@
   "portfolio":{
     "projects": [
       {
-        "title":"Canadian Wanderlust",
-        "category":"My Travel Blog for my post-university travels",
-        "image":"canadian-wanderlust.jpg",
-        "url":"https://www.canadianwanderlust.com"
+        "title":"To-Do App",
+        "category":"Easily manage your daily to-dos",
+        "image":"coderlust-todo.JPG",
+        "url":"https://todo.coderlust.com"
       },
       {
-        "title":"Fury Fighting Gear",
-        "category":"(offline now) A fighting gear company I started",
-        "image":"fury-fighting-gear.jpg",
-        "url":"http://www.timbakerdev.com"
+        "title":"Birthday Girl",
+        "category":"Website created for friend to wish her happy birthday",
+        "image":"Birhtday-Girl.png",
+        "url":"https://hbd-gayu.web.app"
       },
       {
-        "title":"Original Thai Food",
-        "category":"Website I built for a restaurant I like in Thailand",
-        "image":"original-thai-food.jpg",
-        "url":"http://www.timbakerdev.com/originalthaifood.github.io"
+        "title":"Mahuli Trek",
+        "category":"Website I built after Mahuli trek",
+        "image":"mahuli.png",
+        "url":"https://coderlust-detail.web.app/"
       },
       {
-        "title":"Resume Website",
-        "category":"A React based resume website template",
-        "image":"resume-website.jpg",
-        "url":"http://www.timbakerdev.com"
-      },
-      {
-        "title":"Smirkspace",
-        "category":"(MVP Only) A React and Meteor based chat University project.",
-        "image":"smirkspace.jpg",
-        "url":"http://www.smirkspace.com"
+        "title":"Hexovo Website",
+        "category":"Website I build for Hexovo",
+        "image":"hexovo.png",
+        "url":"http://www.hexovo.com"
       }
     ]
   }

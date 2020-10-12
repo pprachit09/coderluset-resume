@@ -46,6 +46,12 @@ const Resume = ({ data }) => {
                 <li key={i}>{achievement}</li>
               ))}
             </ol>
+            <strong>Certifications</strong>
+            <ol>
+              {work.certifications.map((certification, i) => (
+                <li key={i}>{certification}</li>
+              ))}
+            </ol>
           </div>
         )
       })
