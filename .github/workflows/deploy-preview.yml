@@ -19,6 +19,6 @@ jobs:
           repoToken: "${{ secrets.GITHUB_TOKEN }}"
           firebaseServiceAccount: "${{ secrets.FIREBASE_SERVICE_ACCOUNT }}"
           expires: 7d
-          projectId: your-Firebase-project-ID
+          projectId: coderlust-resume
         env:
           FIREBASE_CLI_PREVIEWS: hostingchannels
