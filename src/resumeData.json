@@ -36,6 +36,11 @@
         "name":"github",
         "url":"https://github.com/pprachit09",
         "className":"fa fa-github"
+      },
+      {
+        "name":"whatsapp",
+        "url":"https://wa.me/918698219323",
+        "className":"fa fa-whatsapp whatsapp-icon"
       }
     ]
   },
@@ -74,6 +79,8 @@
           "Automated the repeated task with python-selenium and autoGUI",
           "Automated unit and integration testing with cypress.io in node.js",
           "Integrated cypress.io with Travis for automation testing and reporting.",
+          "Worked on React js websites",
+          "Developed Vue js status website",
           "Designed and developed portals in MERN stack",
           "Developed CI/CD workflow with Github->Travis->Firebase",
           "Have worked on some of AWS services and have the working knowledge of Lambda functions",
@@ -89,7 +96,8 @@
           "Star of the Quarter"
         ],
         "certifications": [
-          "Certified Python-Application Developer"
+          "Certified Python-Application Developer",
+          "[PCEP-30-01] PCEP – Certified Entry-Level Python Programmer"
         ]
       }
     ],
