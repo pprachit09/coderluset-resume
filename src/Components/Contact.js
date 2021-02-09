@@ -4,6 +4,7 @@ import { sendNotification } from '../api/notification'
 
 const Contact = ({ data }) => {
   const [body, setBody] = useState({
+    source: 'resume',
     email: '',
     subject: '',
     message: '',
