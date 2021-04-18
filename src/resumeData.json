@@ -76,19 +76,20 @@
         "projects": [
           "Designed and developed python automation scripts",
           "Managed and developed various platforms",
-          "Automated the repeated task with python-selenium and autoGUI",
+          "Developed and designed AWS infra for migrating websites to AWS",
           "Automated unit and integration testing with cypress.io in node.js",
           "Integrated cypress.io with Travis for automation testing and reporting.",
-          "Worked on React js websites",
-          "Developed Vue js status website",
+          "Worked on React JS websites",
+          "Created Vue JS website for tracking status of all the builds",
           "Designed and developed portals in MERN stack",
           "Developed CI/CD workflow with Github->Travis->Firebase",
-          "Have worked on some of AWS services and have the working knowledge of Lambda functions",
           "Worked on bug fixing in PHP",
           "Integrated all types of REST API with Python and Node",
-          "Created REST APIs in python flask and node express"
+          "Created REST APIs in python flask and Node Express",
+          "Worked on New Relic test cases for websites performance and testing"
         ],
         "achievements": [
+          "Onsite Experiance",
           "Special appriciation from customer for developing a script to deploy covid-19 banner on multiple websites",
           "Reduced a lot of manual efforts with new initiatives",
           "On the spot award for one of the initiative",
